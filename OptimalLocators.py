@@ -1,0 +1,11 @@
+#Amazon Logo, CSS_Selector ".a-icon a-icon-logo"
+#Create Account text, CSS_Selector ".a-spacing-small"
+#Your name, CSS_Selector "#ap_customer_name"
+#Mobile number or email, CSS_Selector "#email"
+#Password, CSS_Selector "#ap_password"
+#Password Requirement, CSS_Selector ".a-alert0-content"
+#Re-enter password, CSS_Selector "#ap_password_check"
+#Continue, CSS_Selector "#continue"
+#Conditions of Use, CSS_Selector "href='/gp/help/customer/display.html/ref=ap_register_notification_condition_of_use?ie=UTF8&amp;nodeId=508088"
+#Privacy Notice, CSS_Selector "href='/gp/help/customer/display.html/ref=ap_register_notification_condition_of_use?ie=UTF8&amp;nodeId=468496'
+#Sign in, CSS_Selector ".a-link-emphasis"
